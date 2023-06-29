@@ -171,5 +171,82 @@ MonoBehaviour:
     - name: 1
       pathPrefix: Backgrounds/intro
       guid: fda907b314eac8e49a1d817ce1c77e76
+    - name: 2
+      pathPrefix: Backgrounds/intro
+      guid: b3a36d8f06b26bd4faa7cd005e19fbaf
+    - name: 3
+      pathPrefix: Backgrounds/intro
+      guid: b143d719419845540919476f4d42ca08
+    - name: 4
+      pathPrefix: Backgrounds/intro
+      guid: 9e09b5b098510164e8f19a13a127f814
+    - name: 5
+      pathPrefix: Backgrounds/intro
+      guid: 4ef931a3720a46b4daa557c65854e114
+    - name: 6
+      pathPrefix: Backgrounds/intro
+      guid: 03e1db8ac0cb9c34ca25c319b2e37ef2
+    - name: 7
+      pathPrefix: Backgrounds/intro
+      guid: a60ffb6d6886cc746a8b12f3325332df
+    - name: 8
+      pathPrefix: Backgrounds/intro
+      guid: 691174679d35f794994c742be76f25be
+    - name: 9
+      pathPrefix: Backgrounds/intro
+      guid: 75f6ccc9183538c4d90935b02e5adecc
+    - name: 10
+      pathPrefix: Backgrounds/intro
+      guid: 031ebcc29898ddb4a83b12606d24282a
+    - name: 11
+      pathPrefix: Backgrounds/intro
+      guid: 72a34461f7ab04e4b9a7d6275494181b
+    - name: 12
+      pathPrefix: Backgrounds/intro
+      guid: 4f006fb860800924e9d21c018968f1f9
+    - name: 13
+      pathPrefix: Backgrounds/intro
+      guid: 65fb9d10f7645744990f704d4182e903
+    - name: 14
+      pathPrefix: Backgrounds/intro
+      guid: d9357b661ba24df4c83761573667cdcd
+    - name: 15
+      pathPrefix: Backgrounds/intro
+      guid: a02d841d822aedd4786f9f889cb504f8
   - Id: Backgrounds/5d29af6b-5a16-4f84-9de2-2d59cea7bc02
     Resources: []
+  - Id: Audio
+    Resources:
+    - name: city_01
+      pathPrefix: Audio
+      guid: 7c125586f4149ed4780f25772c7d193c
+  - Id: Characters/32342953-14e8-4950-be67-2e86dc948bea
+    Resources:
+    - name: cap_00_003
+      pathPrefix: Characters/zadrotof
+      guid: b143d719419845540919476f4d42ca08
+  - Id: CharacterAvatars
+    Resources: []
+  - Id: Backgrounds/47825bd9-4bf6-40cc-b296-ce509fdde504
+    Resources:
+    - name: 1
+      pathPrefix: Backgrounds/intro01
+      guid: 617c7ebedd4b78745b3f844d44ef1994
+    - name: cap_01_002
+      pathPrefix: Backgrounds/intro01
+      guid: 0d2f132ae250801449c1ff1711e2cef7
+    - name: cap_01_003
+      pathPrefix: Backgrounds/intro01
+      guid: 1620a1cbb3ea88540b5cb010e8b7f7dc
+    - name: 
+      pathPrefix: Backgrounds/intro01
+      guid: 
+    - name: 
+      pathPrefix: Backgrounds/intro01
+      guid: 
+    - name: 
+      pathPrefix: Backgrounds/intro01
+      guid: 
+    - name: 
+      pathPrefix: Backgrounds/intro01
+      guid: 
