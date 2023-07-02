@@ -58,6 +58,7 @@
           &lt;string&gt;12&lt;/string&gt;
           &lt;string&gt;13&lt;/string&gt;
           &lt;string&gt;14&lt;/string&gt;
+          &lt;string&gt;15&lt;/string&gt;
           &lt;string&gt;16&lt;/string&gt;
           &lt;string&gt;17&lt;/string&gt;
           &lt;string&gt;18&lt;/string&gt;
@@ -652,6 +653,10 @@
       &lt;/Resource&gt;
       &lt;Resource&gt;
         &lt;Path&gt;14&lt;/Path&gt;
+        &lt;Type&gt;Backgrounds/intro01&lt;/Type&gt;
+      &lt;/Resource&gt;
+      &lt;Resource&gt;
+        &lt;Path&gt;15&lt;/Path&gt;
         &lt;Type&gt;Backgrounds/intro01&lt;/Type&gt;
       &lt;/Resource&gt;
       &lt;Resource&gt;
