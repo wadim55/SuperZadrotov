@@ -147,7 +147,7 @@
 Чёрный_Дилдов: Я был один!
 
 @back 38 id:intro01
-Задротов:(Ты это уже говорил, придурок) 
+Задротов: (Ты это уже говорил, придурок) 
 
 @back 31 id:intro01
 Чёрный_Дилдов: все полицейские силы были заняты контролем толпы финала чемпионата.
@@ -333,12 +333,14 @@
 @choice "Я просто очень устал" goto:.lable1
 @choice "просто у меня головная боль" goto:.lable2
 @stop
+
 #lable1
 Задротов: Я просто очень устал
 @back 3a id:intro01
 Лола: я понимаю.
 Лола: Нужно как-то оживить этот вечер
 @goto .lable3
+
 #lable2
 Задротов: просто у меня головная боль
 @back 3a id:intro01
@@ -375,6 +377,331 @@
 @back 39 id:intro01
 Задротов: Эй! Что это за история?
 Задротов: (я не хочу, чтобы черный Дилдов видел киску моей жены!)
+
+...
+@choice "Я не хочу этого делать!" goto:.lable4
+@choice "Не лучше ли было бы закончить вечер?" goto:.lable5
+@stop
+
+#lable4
+Задротов: я не хочу этого делать!
+
+@back 37 id:intro01
+Лола: Давай Задротов, не стесняйся.
+Лола: Просто у тебя стресс. Поверь нам, будет весело."
+@back 39 id:intro01
+Задротов: мне не нравится эта игра.
+Задротов: я нахожу это... глупым!
+@goto .lable6
+
+#lable5
+Задротов: не лучше ли закончить вечер?
+@back 37 id:intro01
+Лола: Давай Задротов, не стесняйся.
+Лола: Поверь нам, будет весело. Если ты вернешься домой, я уверена, ты пожалеешь об этом."
+@back 39 id:intro01
+Задротов: в каком смысле ?
+Задротов: (к чему она клонит?)
+#lable6
+
+
+@back 37 id:intro01
+Лола: не ломайся как целочка, Задротов?
+Лола: все играют в покер на раздевание со своими друзьями.
+Лола: зачем ты делаешь из этого проблему ?
+
+@back 18 id:intro01
+Задротов: (черт. Какая дерьмовая ситуация.) 
+Задротов: (хотя... теперь, когда я думаю об этом... это может быть хорошим предлогом, чтобы увидеть ее обнаженной.)
+Задротов: (под покерным предлогом, я смог бы увидеть ее сиськи. Может быть и пизду!)
+
+@back 42 id:intro01
+Лола: Ну? Задротов? Мы ждем тебя.  
+Лола: Мы не можем играть в троих, нам нужен четвертый.
+Лола: Если ты не хочешь, мы можем пригласить вместо тебя доставшика пиццы.
+Задротов: Ладно, ладно... Давайте играть в ваш чертов поккер.
+
+@back 37 id:intro01
+Лола: Отлично! Я рада, что ты передумал!
+
+@back 44 id:intro01
+Чёрный_Дилдов: Итак, правила вы знаете...
+
+@back 52 id:intro01
+Чёрный_Дилдов: Вот карты, давайте начнем игру.
+
+@back 46 id:intro01
+Чёрный_Дилдов: У меня пара на восьмерках, это не очень круто, но я могу надеяться, что я не худший
+
+@back 45 id:intro01
+Лола:  "я меняю 4 карты."
+
+@back 46 id:intro01
+Задротов: если она меняет 4 карты, значит у нее всё плохо.
+
+@back 48 id:intro01
+Аллочка: одну карту
+
+@back 46 id:intro01
+Задротов:  (Ну, у не в руке серьезная карта.)
+
+@back 50 id:intro01
+Чёрный_Дилдов: хорошо, вскрываем карты.
+
+@back 44 id:intro01
+Аллочка: у тебя нет ничего, Лола, ты проиграла.
+Лола: Это Правда. Я пробовала менять карты... это не помогло.
+Аллочка: теперь тебе нужно что-то снять.
+Чёрный_Дилдов: такие правила.
+
+@back 53 id:intro01
+Лола:  Наконец-то! Если честно, я весь вечер жаждала этого
+
+@back 54 id:intro01
+Лола: по нескольким причинам.
+
+@back 55 id:intro01
+Лола: насить кожаные трусики... в такую жару...
+
+@back 56 id:intro01
+Лола: настоящий стресс для моего хрупкого тела.
+
+@back 57 id:intro01
+Лола: немного воздуха между ног, это именно то, что нужно.
+
+@back 58 id:intro01
+Лола: так-то лучше
+
+@back 59 id:intro01
+Лола: я не могу дождаться, чтобы снять и остальное
+
+@back 61 id:intro01
+Лола: Держи
+
+@back 60 id:intro01
+Лола: Это теперь твоё)
+
+@back 44 id:intro01
+Задротов: (черт, она сняла трусы. Я думал о чем-то более спокойном, чем вечерняя оргия...)
+
+@back 50 id:intro01
+
+@back 52 id:intro01
+
+@back 49 id:intro01
+
+@back 46 id:intro01
+
+@back 47 id:intro01
+
+@back 48 id:intro01
+
+@back 49 id:intro01
+
+@back 77 id:intro01
+
+@back 78 id:intro01
+
+@back 79 id:intro01
+
+@back 80 id:intro01
+
+@back 81 id:intro01
+
+@back 82 id:intro01
+
+@back 83 id:intro01
+
+@back 84 id:intro01
+
+@back 52m id:intro01
+
+@back 46 id:intro01
+
+@back 52m id:intro01
+
+@back 47 id:intro01
+
+@back 61b id:intro01
+
+@back 61b1 id:intro01
+
+@back 52n1 id:intro01
+
+@back 47 id:intro01
+
+@back 111a id:intro01
+
+@back 111b id:intro01
+
+@back 60a id:intro01
+
+@back 51a id:intro01
+
+@back 49 id:intro01
+
+@back 50a id:intro01
+
+@back 51a id:intro01
+
+@back 52n2 id:intro01
+
+@back 51a id:intro01
+
+@back 50a id:intro01
+
+@back 49 id:intro01
+
+@back 51a id:intro01
+
+@back 52n2 id:intro01
+
+@back 49 id:intro01
+
+@back 83 id:intro01
+
+@back 85 id:intro01
+
+@back 86 id:intro01
+
+@back 87 id:intro01
+
+@back 88 id:intro01
+
+@back 89 id:intro01
+
+@back 90 id:intro01
+
+@back 91 id:intro01
+
+@back 92 id:intro01
+
+@back 89 id:intro01
+
+@back 52d id:intro01
+
+@back 50a id:intro01
+
+@back 46a id:intro01
+
+@back 52d id:intro01
+
+@back 61b1 id:intro01
+
+@back 61c id:intro01
+
+@back 52d id:intro01
+
+@back 51a id:intro01
+
+@back 49 id:intro01
+
+@back 51a id:intro01
+
+@back 88 id:intro01
+
+@back 93 id:intro01
+
+@back 94 id:intro01
+
+@back 95 id:intro01
+
+@back 96 id:intro01
+
+@back 97 id:intro01
+
+@back 98 id:intro01
+
+@back 52e id:intro01
+
+@back 50a id:intro01
+
+@back 52e id:intro01
+
+@back 51b id:intro01
+
+@back 111b id:intro01
+
+@back 111c id:intro01
+
+@back 51b id:intro01
+
+@back 46a id:intro01
+
+@back 47a id:intro01
+
+@back 44e id:intro01
+
+@back 47a id:intro01
+
+@back 61c id:intro01
+
+@back 61d id:intro01
+
+@back 44f id:intro01
+
+@back 48b id:intro01
+
+@back 52e id:intro01
+
+@back 50a id:intro01
+
+@back 111d id:intro01
+
+@back 46a id:intro01
+
+@back 48b id:intro01
+
+@back 44f id:intro01
+
+@back 47a id:intro01
+
+@back 48b id:intro01
+
+@back 62a id:intro01
+
+@back 62b id:intro01
+
+@back 62c id:intro01
+
+@back 62d id:intro01
+
+@back 62e id:intro01
+
+@back 62h id:intro01
+
+@back 62g id:intro01
+
+@back 62i id:intro01
+
+@back 52g id:intro01
+
+@back 45 id:intro01
+
+@back 64 id:intro01
+
+@back 65 id:intro01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
