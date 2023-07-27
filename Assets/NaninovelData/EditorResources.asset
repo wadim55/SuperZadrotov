@@ -166,6 +166,9 @@ MonoBehaviour:
     - name: Intro
       pathPrefix: Scripts
       guid: efaf89f92ea9d7b48a897b7db1db5c6f
+    - name: intro2
+      pathPrefix: Scripts
+      guid: 7a36669e9034d8546b634d0ab4226432
   - Id: Backgrounds/94df8528-799c-4ba8-bfda-8ec123722f32
     Resources:
     - name: 1
@@ -223,6 +226,12 @@ MonoBehaviour:
     - name: autumn_rain
       pathPrefix: Audio
       guid: 6cf82acf2a90ae84a9ec1fed3d400f4e
+    - name: danger_zone
+      pathPrefix: Audio
+      guid: 295298b94e560f14e9338cb2602791cf
+    - name: the_unknown_future
+      pathPrefix: Audio
+      guid: 6c2f6481463e3f645b0297ac5392682d
   - Id: Characters/32342953-14e8-4950-be67-2e86dc948bea
     Resources:
     - name: cap_00_003
@@ -1021,3 +1030,544 @@ MonoBehaviour:
     - name: 195
       pathPrefix: Backgrounds/intro01
       guid: 03c538226415eb943b4b8e78c69b16ab
+    - name: 200
+      pathPrefix: Backgrounds/intro01
+      guid: a8c2b5d41a50af54baf5a0d582c518b6
+  - Id: Movies
+    Resources:
+    - name: v1
+      pathPrefix: Movies
+      guid: 537119acf8cefa94898723d89240bd37
+    - name: v2
+      pathPrefix: Movies
+      guid: 06650e076ff2d224c91396207ce977dc
+    - name: v3
+      pathPrefix: Movies
+      guid: 76d0453ad389e9f4cb8b8844fa427eb2
+    - name: v4
+      pathPrefix: Movies
+      guid: d7c9f256e0ca8f640b30d6f8438b53a5
+    - name: v5
+      pathPrefix: Movies
+      guid: e9aa39f9c32651640bed00b61827e8b2
+    - name: v6
+      pathPrefix: Movies
+      guid: 5f1a24bc637bbaa4b9314a5cf0f41e63
+    - name: v7
+      pathPrefix: Movies
+      guid: 7349e75cc8ad0fc41a4e39d25518d5b5
+    - name: v8
+      pathPrefix: Movies
+      guid: d911007d369670c4187924e67173b84c
+    - name: v9
+      pathPrefix: Movies
+      guid: 36cabaaee670eaf44855654215f20a05
+    - name: v10
+      pathPrefix: Movies
+      guid: 987b4823a39aa514fa91c5b708de11d2
+    - name: v11
+      pathPrefix: Movies
+      guid: 68884a51baa950a4ea14c81bf78f2d21
+    - name: v12
+      pathPrefix: Movies
+      guid: faf5d4ca11193bd4abb7578abbc3544d
+    - name: v13
+      pathPrefix: Movies
+      guid: 2d90ec4b42e0e4a4790635dda3d7fad7
+    - name: v14
+      pathPrefix: Movies
+      guid: a55c94e6f4521ef45a1aca7dc49d8864
+    - name: v15
+      pathPrefix: Movies
+      guid: e37949013213de64e9d8d72fd5177f1e
+    - name: v16
+      pathPrefix: Movies
+      guid: 9110044e052d9a748b960b0e0e34b466
+    - name: v17
+      pathPrefix: Movies
+      guid: 0996cc9f715978b4a9d3de1d70b911de
+    - name: v18
+      pathPrefix: Movies
+      guid: a315a33e4012ba341a669bb7273680e0
+    - name: v19
+      pathPrefix: Movies
+      guid: 7779cd421e3602f4c9756e4ea43798a8
+    - name: v20
+      pathPrefix: Movies
+      guid: c3248d3a4fb09da47b092b217622f2c3
+    - name: v21
+      pathPrefix: Movies
+      guid: 7d46c870c91224848b3b6173d1d577df
+    - name: v22
+      pathPrefix: Movies
+      guid: a8a1e148e2eb1fc4fa9917e6dddcf0a1
+    - name: v23
+      pathPrefix: Movies
+      guid: 0736e790a02714f40881a4902b3bcf2e
+    - name: v24
+      pathPrefix: Movies
+      guid: 5b255ae05e5a24b4c8c28814b33468e6
+    - name: v25
+      pathPrefix: Movies
+      guid: accca09ba3615914e8a4ab3833980fe7
+    - name: v26
+      pathPrefix: Movies
+      guid: 3cb0bb738831ae5478728bbe23fe81c2
+    - name: v27
+      pathPrefix: Movies
+      guid: db961282e5f85574d90a045a116ea5d1
+    - name: v28
+      pathPrefix: Movies
+      guid: d340694b12789fd4d94abf51e5a0fefc
+    - name: v29
+      pathPrefix: Movies
+      guid: a8e87fbc8c13ee0498881acd2c855f31
+    - name: v30
+      pathPrefix: Movies
+      guid: caa5fb5b242931b4c8ac4ba47203375c
+    - name: v31
+      pathPrefix: Movies
+      guid: 5254f112dc6a7844e9b9605e498266be
+    - name: v32
+      pathPrefix: Movies
+      guid: b05228b1802b7cf42a3cfb3bc80e8c6b
+    - name: v33
+      pathPrefix: Movies
+      guid: c1f2bc2a5bf3fa040b0bc90eae084e22
+    - name: v34
+      pathPrefix: Movies
+      guid: ba8494ec8fa5a024b8ec473bea753f3d
+    - name: v35
+      pathPrefix: Movies
+      guid: dd587492af6d801408a2f583bae361c3
+    - name: v36
+      pathPrefix: Movies
+      guid: fd77d4fb27bba0f459f7e90d6835d1f6
+    - name: v37
+      pathPrefix: Movies
+      guid: 23f238117d0883645b0dcae8a37ab1a0
+    - name: v38
+      pathPrefix: Movies
+      guid: 5515175a8af24e64dbd0366938a1a089
+    - name: v39
+      pathPrefix: Movies
+      guid: d05b702743d23d54685441f6103a20aa
+    - name: v40
+      pathPrefix: Movies
+      guid: 303b6b3b452e08347b187baa862e7c68
+    - name: v41
+      pathPrefix: Movies
+      guid: 9194b3fe4b4d32f41a27155608b85c9f
+    - name: v42
+      pathPrefix: Movies
+      guid: a54e8739b88cd5146bc0317b89975ba3
+    - name: v43
+      pathPrefix: Movies
+      guid: 0ffa53335e3e5ba41bea3c4860d4ada1
+    - name: v44
+      pathPrefix: Movies
+      guid: c90d0b6006e288947bec7b8382c42813
+    - name: v45
+      pathPrefix: Movies
+      guid: f0b0a67f06ce4444f9ddf618783a1d4f
+    - name: v46
+      pathPrefix: Movies
+      guid: 2eb8cd9bc3cd35e4fbfcdd1ce5217265
+    - name: v47
+      pathPrefix: Movies
+      guid: 74d46c0ece24fa14b84082f10b47ca56
+    - name: v48
+      pathPrefix: Movies
+      guid: a39bebf9f9997944bab9f4c7306a5865
+    - name: v49
+      pathPrefix: Movies
+      guid: 8eb0885659adce04680755fad470d604
+    - name: v50
+      pathPrefix: Movies
+      guid: 5cf74cd362e2b1d42b48e18407361929
+    - name: v51
+      pathPrefix: Movies
+      guid: 6c8f347fd75504543b9e80515ef4c644
+    - name: v52
+      pathPrefix: Movies
+      guid: 537a6b6262f466847abeb6db5fd2570d
+  - Id: Backgrounds/6e7364b7-d8fd-4422-97b5-28cd51b110fd
+    Resources:
+    - name: 1
+      pathPrefix: Backgrounds/intro02
+      guid: 50110fd466e80254d84efed3c076a16c
+    - name: 1a
+      pathPrefix: Backgrounds/intro02
+      guid: b2a8f56ea20ede04485af9adf4a7e46c
+    - name: 2
+      pathPrefix: Backgrounds/intro02
+      guid: 5ebc6887226456c4897e4f35e633e887
+    - name: 3
+      pathPrefix: Backgrounds/intro02
+      guid: 2f8b89b6cee344e4c8670e3a31eabebf
+    - name: 4
+      pathPrefix: Backgrounds/intro02
+      guid: 327a0afb5a1991e4890dab8633e993f1
+    - name: 5
+      pathPrefix: Backgrounds/intro02
+      guid: e215d2e149daa8746af8779b61b96595
+    - name: 6
+      pathPrefix: Backgrounds/intro02
+      guid: e4b3f43ac76a15848ac09a9339c1771f
+    - name: 7
+      pathPrefix: Backgrounds/intro02
+      guid: 517de1d2a04178d4d8930822df42f4d3
+    - name: 8
+      pathPrefix: Backgrounds/intro02
+      guid: 14a1824c878fee749883abef39b4190c
+    - name: 9
+      pathPrefix: Backgrounds/intro02
+      guid: d493126285062e14e9399af548c9acc9
+    - name: 10
+      pathPrefix: Backgrounds/intro02
+      guid: 422ec12d4e240c945a41140ddaef23df
+    - name: 11
+      pathPrefix: Backgrounds/intro02
+      guid: d18cf188fae8a124597acaf46d09edde
+    - name: 12
+      pathPrefix: Backgrounds/intro02
+      guid: b1ba5c6efc9bf634c834c849f96f1d34
+    - name: 13
+      pathPrefix: Backgrounds/intro02
+      guid: 308c16742120fc143ad97e47e020c747
+    - name: 14
+      pathPrefix: Backgrounds/intro02
+      guid: 04d3d28283eedad488f799590bc6c5a6
+    - name: 15
+      pathPrefix: Backgrounds/intro02
+      guid: 59b70a75db5d80f4c870df4d68638a1c
+    - name: 16
+      pathPrefix: Backgrounds/intro02
+      guid: ced674640f52b324fafe7309151b4338
+    - name: 17
+      pathPrefix: Backgrounds/intro02
+      guid: c9d2d6555187c5049b84f9f824b014e7
+    - name: 18
+      pathPrefix: Backgrounds/intro02
+      guid: b57f2e716b658074a89044b9df8d7b81
+    - name: 19
+      pathPrefix: Backgrounds/intro02
+      guid: a07068961c49cf04095807972c0dc366
+    - name: 20
+      pathPrefix: Backgrounds/intro02
+      guid: 3e26a3e3b1011c347a0150a0f0ce91f8
+    - name: 21
+      pathPrefix: Backgrounds/intro02
+      guid: d78d6a110283df04a85dda8296b6aff5
+    - name: 22
+      pathPrefix: Backgrounds/intro02
+      guid: 60547135e1ed72d448f970be635cfb1f
+    - name: 23
+      pathPrefix: Backgrounds/intro02
+      guid: 29010bbe9e5a3dd408c55c46b918b51f
+    - name: 24
+      pathPrefix: Backgrounds/intro02
+      guid: fbadf62d48a842447b1769ff5f9f8385
+    - name: 25
+      pathPrefix: Backgrounds/intro02
+      guid: e7af182759829d3428081a31f177be97
+    - name: 26
+      pathPrefix: Backgrounds/intro02
+      guid: 4791cb427c0cfe343bcc2fdea82d2bd8
+    - name: 27
+      pathPrefix: Backgrounds/intro02
+      guid: a1d42c7f54c70944bb9ca59ad8fcdbc0
+    - name: 28
+      pathPrefix: Backgrounds/intro02
+      guid: 4ec18982292e339499edd54fa8d63f80
+    - name: 29
+      pathPrefix: Backgrounds/intro02
+      guid: 37934ef267768ac4081040ed1f1f5142
+    - name: 30
+      pathPrefix: Backgrounds/intro02
+      guid: fa4f9fdb54a0ba746a0cbabf7e4d830a
+    - name: 31
+      pathPrefix: Backgrounds/intro02
+      guid: 1e884fa454f14854faad0a98957e887b
+    - name: 32
+      pathPrefix: Backgrounds/intro02
+      guid: 69d44f934e11c874fa3a745797fe6be0
+    - name: 33
+      pathPrefix: Backgrounds/intro02
+      guid: 31f118b8e4ed3e94cbde127d67b7263b
+    - name: 34
+      pathPrefix: Backgrounds/intro02
+      guid: 85e72f79e89aef64c8eacbc3b328e080
+    - name: 35
+      pathPrefix: Backgrounds/intro02
+      guid: f4290dad5f3de994a9cac6b67017835e
+    - name: 36
+      pathPrefix: Backgrounds/intro02
+      guid: 39760b24b284b454d87b5e0f57366598
+    - name: 37
+      pathPrefix: Backgrounds/intro02
+      guid: 00db2a69477aa284f83badc6951e1d38
+    - name: 38
+      pathPrefix: Backgrounds/intro02
+      guid: edd5ceb3564de4f4e8873ce82756d5af
+    - name: 39
+      pathPrefix: Backgrounds/intro02
+      guid: fc3e3ae8f4efac34b9424e16223cb3f3
+    - name: 40
+      pathPrefix: Backgrounds/intro02
+      guid: 45a5b05a82c3bff42a6b2abaa66dff16
+    - name: 41
+      pathPrefix: Backgrounds/intro02
+      guid: bdaa60f2336d1a247841072e74865d01
+    - name: 42
+      pathPrefix: Backgrounds/intro02
+      guid: c1dc0b293d6c4a548a3497076c3be0bf
+    - name: 43
+      pathPrefix: Backgrounds/intro02
+      guid: a3c02875986ec5a43a4a5f4dc90df235
+    - name: 44
+      pathPrefix: Backgrounds/intro02
+      guid: d390ebabe8cfe3446b5268808934a161
+    - name: 45
+      pathPrefix: Backgrounds/intro02
+      guid: 265d4cc9eac4af24dac9e92da81555a7
+    - name: 46
+      pathPrefix: Backgrounds/intro02
+      guid: 9c30b8e78966bfd478571ce4c627296b
+    - name: 47
+      pathPrefix: Backgrounds/intro02
+      guid: 86bd9d3a9c2113541987a24058e85f65
+    - name: 48
+      pathPrefix: Backgrounds/intro02
+      guid: 2883610293a9e354489915f5bbfe3db7
+    - name: 49
+      pathPrefix: Backgrounds/intro02
+      guid: 83fa54d39dc3e3141a3179003de9967b
+    - name: 50
+      pathPrefix: Backgrounds/intro02
+      guid: 4266f8c2fc92c3a49b0abbf3e6e3e75e
+    - name: 51
+      pathPrefix: Backgrounds/intro02
+      guid: 4388f1d163d40a34d888e10956b1b187
+    - name: 52
+      pathPrefix: Backgrounds/intro02
+      guid: ccc1a0060af4adf4fae640d243e19f64
+    - name: 53
+      pathPrefix: Backgrounds/intro02
+      guid: f67cb659491f1544eb60834703a19c63
+    - name: 54
+      pathPrefix: Backgrounds/intro02
+      guid: d438833561aed2f4886c0b56fe677828
+    - name: 55
+      pathPrefix: Backgrounds/intro02
+      guid: 8f966502f3129034a9d5362aa24913cc
+    - name: 56
+      pathPrefix: Backgrounds/intro02
+      guid: b6098f57af92fe44cbcbea096cc42075
+    - name: 57
+      pathPrefix: Backgrounds/intro02
+      guid: 3507c37b712506f4c80dc70f1b747448
+    - name: 58
+      pathPrefix: Backgrounds/intro02
+      guid: 5b045a1d8d8c8474ea666a5b6abfad1c
+    - name: 59
+      pathPrefix: Backgrounds/intro02
+      guid: 84121f7d715826046b43a2a102a188e9
+    - name: 60
+      pathPrefix: Backgrounds/intro02
+      guid: cbe8656441fe7fc4b9463b124ce99679
+    - name: 61
+      pathPrefix: Backgrounds/intro02
+      guid: 5c1144b9292ab084ea08bd37781f9a46
+    - name: 62
+      pathPrefix: Backgrounds/intro02
+      guid: f86f71fb552035a4eb12face56589e5c
+    - name: 63
+      pathPrefix: Backgrounds/intro02
+      guid: 986cc5398475177479de389727bced13
+    - name: 64
+      pathPrefix: Backgrounds/intro02
+      guid: a0001700c55849a41aa53b6ebd61908f
+    - name: 65
+      pathPrefix: Backgrounds/intro02
+      guid: ceac1215be107e347951b5a9164bb97b
+    - name: 66
+      pathPrefix: Backgrounds/intro02
+      guid: bcab229e0e549c745805dab7d0ce0ba8
+    - name: 67
+      pathPrefix: Backgrounds/intro02
+      guid: c3b6dc9e3a8a3ae42978fb6f1936a226
+    - name: 68
+      pathPrefix: Backgrounds/intro02
+      guid: b637d65dc4eb63540aa1224dbe83da08
+    - name: 69
+      pathPrefix: Backgrounds/intro02
+      guid: 06bd72a2fc53e8e49af9cb5de82ab506
+    - name: 70
+      pathPrefix: Backgrounds/intro02
+      guid: 928108f2cf3e87041b3c8431116c0c39
+    - name: 71
+      pathPrefix: Backgrounds/intro02
+      guid: 43693081a07f91e4788353cf612919f5
+    - name: 72
+      pathPrefix: Backgrounds/intro02
+      guid: 96de938ce2ec97745889bbc848855367
+    - name: 73
+      pathPrefix: Backgrounds/intro02
+      guid: b3992b70ff09a99439429639ef9a2371
+    - name: 74
+      pathPrefix: Backgrounds/intro02
+      guid: 9d8650611ce79f54595e1614c6924ebe
+    - name: 75
+      pathPrefix: Backgrounds/intro02
+      guid: 1b7ee5836e065394586cd1aaf1692d56
+    - name: 76
+      pathPrefix: Backgrounds/intro02
+      guid: 172a4232e8dc3744d83e88b0930cb95e
+    - name: 77
+      pathPrefix: Backgrounds/intro02
+      guid: 3c54118ed7eb6714fbf566a274475194
+    - name: 78
+      pathPrefix: Backgrounds/intro02
+      guid: 0a725d8a5bf7d0b4083d2b700b891f5a
+    - name: 79
+      pathPrefix: Backgrounds/intro02
+      guid: 4a8108d2e2e98ee40bf82b76b53b285b
+    - name: 80
+      pathPrefix: Backgrounds/intro02
+      guid: 789472c4390ba3247a4fbd285c38f1e8
+    - name: 81
+      pathPrefix: Backgrounds/intro02
+      guid: 6cf545963208a3a4e99a6480bf696896
+    - name: 82
+      pathPrefix: Backgrounds/intro02
+      guid: fb2fcddfd80ec1042b75cf6126ea6874
+    - name: 82a
+      pathPrefix: Backgrounds/intro02
+      guid: 4e2e828dac259454682cb27587b204ed
+    - name: 83
+      pathPrefix: Backgrounds/intro02
+      guid: 35fc9a607e64f4a409f8e891b1799825
+    - name: 83a
+      pathPrefix: Backgrounds/intro02
+      guid: 0748b284ab164154a8aa5f178eb8029b
+    - name: 84
+      pathPrefix: Backgrounds/intro02
+      guid: 3f9a2ecb521545444a39df1bfc3f1f73
+    - name: 85
+      pathPrefix: Backgrounds/intro02
+      guid: 5dc139f7505898b459b6f06cc682f65e
+    - name: 86
+      pathPrefix: Backgrounds/intro02
+      guid: 52ca33c3bcf2bd642b2efb2b88e1d194
+    - name: 87
+      pathPrefix: Backgrounds/intro02
+      guid: 6ef6ce09bc07e614c8fa925ec2606d4a
+    - name: 88
+      pathPrefix: Backgrounds/intro02
+      guid: 097bd9c234bc7794f8fa1acebd7a2edd
+    - name: 89
+      pathPrefix: Backgrounds/intro02
+      guid: 415d21f956bdaed41898c869dbda4a90
+    - name: 90
+      pathPrefix: Backgrounds/intro02
+      guid: 0512df84c6aab364d9e6c51942db7809
+    - name: 91
+      pathPrefix: Backgrounds/intro02
+      guid: df8bfe161e43145408023a541330570d
+    - name: 92
+      pathPrefix: Backgrounds/intro02
+      guid: 477253d780cad964eb1c68fb48b9cc7a
+    - name: 93
+      pathPrefix: Backgrounds/intro02
+      guid: 9e60172a07222a146afc189999b1d7bb
+    - name: 94
+      pathPrefix: Backgrounds/intro02
+      guid: aea107bf4fa824f4fa890ea405a7511b
+    - name: 95
+      pathPrefix: Backgrounds/intro02
+      guid: a08166f833659d9409114392ceb8295d
+    - name: 96
+      pathPrefix: Backgrounds/intro02
+      guid: 2a474333dac7b6f44814b973c3aadaef
+    - name: 97
+      pathPrefix: Backgrounds/intro02
+      guid: 18a8fdd5c4feac04eac1c556d43fff25
+    - name: 98
+      pathPrefix: Backgrounds/intro02
+      guid: 5dccdd9e6a709cf43a00c787f4a5f52c
+    - name: 99
+      pathPrefix: Backgrounds/intro02
+      guid: 9673d6be19962fd42922ab5b0e2a470e
+    - name: 100
+      pathPrefix: Backgrounds/intro02
+      guid: 63d0259bffb80184e9978f9adc680259
+    - name: 101
+      pathPrefix: Backgrounds/intro02
+      guid: b33ce36caf0d6a34f86b06728411b8ef
+    - name: 102
+      pathPrefix: Backgrounds/intro02
+      guid: 6cf8386583d6a9d479b03444f0360640
+    - name: 103
+      pathPrefix: Backgrounds/intro02
+      guid: 25854aa2bd3c405459daf5563893065a
+    - name: 104
+      pathPrefix: Backgrounds/intro02
+      guid: 4a62fa7901fc8484d89254dfb1834ff7
+    - name: 105
+      pathPrefix: Backgrounds/intro02
+      guid: cba69fdeb3fbebf4db48c71b0c8ec67a
+    - name: 106
+      pathPrefix: Backgrounds/intro02
+      guid: f9e248ef009484d429fc9aef883eb1e0
+    - name: 107
+      pathPrefix: Backgrounds/intro02
+      guid: 7b3787d65b8e53a40b4e5f9c6697f472
+    - name: 108
+      pathPrefix: Backgrounds/intro02
+      guid: 26125bf9d0b78b847a0279ca454ac5b3
+    - name: 109
+      pathPrefix: Backgrounds/intro02
+      guid: c4cb8666cfb17c944837f3bf1f4b8c14
+    - name: 110
+      pathPrefix: Backgrounds/intro02
+      guid: 781496734f44a3346b1c85ff6d26d0c9
+    - name: 111
+      pathPrefix: Backgrounds/intro02
+      guid: 0675f24b53d3be746bed9d7747bbaef4
+    - name: 112
+      pathPrefix: Backgrounds/intro02
+      guid: 55bdcc6ac9f8ab74cbb6b7406bc2d191
+    - name: 113
+      pathPrefix: Backgrounds/intro02
+      guid: f66bb5669dc51aa4cbdd9c7df42def02
+    - name: 114
+      pathPrefix: Backgrounds/intro02
+      guid: 9748d399ad982964c953ad328f26aef9
+    - name: 115
+      pathPrefix: Backgrounds/intro02
+      guid: ac78333a6753b2b41994b1f595a53936
+    - name: 116
+      pathPrefix: Backgrounds/intro02
+      guid: b6ba4576fd34d4043b5657cfa2e17f29
+    - name: 117
+      pathPrefix: Backgrounds/intro02
+      guid: fd31e3a7d7b4bdd4db201b4344b31150
+    - name: 118
+      pathPrefix: Backgrounds/intro02
+      guid: c2b31b79926e6864ebdea007ca91b496
+    - name: 119
+      pathPrefix: Backgrounds/intro02
+      guid: e02fda6ea44b24b44ba1158b68865b51
+    - name: 120
+      pathPrefix: Backgrounds/intro02
+      guid: ac151dad9ba4630408a4fe9076ac7e68
+    - name: 121
+      pathPrefix: Backgrounds/intro02
+      guid: 2615a1e235b9dc44cb915a3b463d6923
+    - name: 122
+      pathPrefix: Backgrounds/intro02
+      guid: 789742afd400a8b4887502c5657cbd1b
+    - name: 123
+      pathPrefix: Backgrounds/intro02
+      guid: 8e967133065140b4ea2f3e705f76fe25

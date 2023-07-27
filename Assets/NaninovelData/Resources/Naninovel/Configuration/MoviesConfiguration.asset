@@ -19,8 +19,8 @@ MonoBehaviour:
       Culture=neutral, PublicKeyToken=null
     - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
-  SkipOnInput: 1
-  SkipFrames: 1
+  SkipOnInput: 0
+  SkipFrames: 0
   FadeDuration: 1
   CustomFadeTexture: {fileID: 0}
   PlayIntroMovie: 0
