@@ -232,6 +232,21 @@ MonoBehaviour:
     - name: the_unknown_future
       pathPrefix: Audio
       guid: 6c2f6481463e3f645b0297ac5392682d
+    - name: the_war_machine
+      pathPrefix: Audio
+      guid: 24d791adb011345469723e5cd827c911
+    - name: whosh_01
+      pathPrefix: Audio
+      guid: 8cf93a3f11c2b304c97c4cca5d9b1e6f
+    - name: blaster_01
+      pathPrefix: Audio
+      guid: 9860ade2aea9638418fd9addfc4ee5f5
+    - name: blaster_02
+      pathPrefix: Audio
+      guid: f50d26b3468ddaa4e98bdf0e1476769d
+    - name: blaster_03
+      pathPrefix: Audio
+      guid: d9a56d7cfc3795641938dee58c054523
   - Id: Characters/32342953-14e8-4950-be67-2e86dc948bea
     Resources:
     - name: cap_00_003
